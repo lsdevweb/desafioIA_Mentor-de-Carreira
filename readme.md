@@ -1,110 +1,95 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🚀 Guia de Carreira em Tecnologia
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Este repositório documenta minha jornada de descoberta e direcionamento para uma carreira em tecnologia, com base em uma entrevista estruturada e análise de perfil profissional.
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🎯 Objetivo
+Explorar oportunidades na área de **Tecnologia da Informação**, identificar carreiras promissoras e construir um plano de estudos e prática para conquistar meu **primeiro emprego**.
 
-<br/>
-<br/>
+---
 
-## 💻 Sobre o Projeto
+## 📝 Entrevista de Perfil
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Durante a entrevista, respondi a 7 perguntas para mapear meus interesses e motivações:
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+1. **O que mais me atrai em tecnologia?** Criar produtos  
+2. **Experiência prévia:** Começando do zero  
+3. **Disponibilidade de estudo:** 4 horas por semana  
+4. **Preferência no dia a dia:** Código  
+5. **Objetivo principal:** Conseguir o primeiro emprego  
+6. **Interesses técnicos:** Desenvolvimento web, dados, inteligência artificial, infraestrutura  
+7. **Experiência prévia aproveitável:** Sim  
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 📊 Análise e Sugestão de Carreiras
 
-- _Exemplo_:
+Com base nas respostas, foram identificadas 3 carreiras promissoras:
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+### 🥇 1º Lugar: **Desenvolvedor Web** – 18/20
+- **Por que combina:** foco em criação de produtos e código  
+- **Vantagens:** alta empregabilidade, resultados visíveis rapidamente  
+- **Desafios:** aprender múltiplas tecnologias e praticar constantemente  
+- **Mercado:** amplo e aquecido, variando por região e experiência  
 
-- [Outros pré-requisitos, se aplicável]
+### 🥈 2º Lugar: **Cientista de Dados Júnior** – 15/20
+- **Por que combina:** interesse em dados e inteligência artificial  
+- **Vantagens:** impacto direto em problemas complexos  
+- **Desafios:** ramp-up mais longo, necessidade de matemática/estatística  
+- **Mercado:** em expansão global, entrada varia por região  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+### 🥉 3º Lugar: **Analista de Infraestrutura Júnior** – 13/20
+- **Por que combina:** interesse em infraestrutura e sistemas  
+- **Vantagens:** área essencial em qualquer empresa, base sólida para crescer em cloud e segurança  
+- **Desafios:** suporte contínuo, necessidade de conhecimento prático em redes e sistemas  
+- **Mercado:** demanda constante, ritmo de crescimento depende da região  
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## 🔎 Pesquisa de Mercado – Infraestrutura Júnior (2026)
 
-  - [Subhabilidades relacionadas, se aplicável]
+### Volume de vagas
+- Mais de **370 vagas ativas** para Analista de Infraestrutura Júnior no Brasil  
+- Aproximadamente **12.700 vagas em TI júnior** (suporte e infraestrutura)  
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+### Regiões com maior concentração
+- **São Paulo (SP):** tecnologia e serviços financeiros  
+- **Rio de Janeiro (RJ):** consultorias e telecom  
+- **Minas Gerais (BH):** educação e tecnologia  
+- **Santa Catarina (Joinville, Chapecó, Joaçaba):** software e serviços  
 
-## 🎯 Objetivos e Resultados Esperados
+### Exemplos de vagas recentes
+- **Grupo Bancorbrás (Brasília, DF):** monitoramento de redes LAN/WAN, servidores Windows/Linux  
+- **Fortes Tecnologia (Fortaleza, CE):** suporte em infraestrutura de TI  
+- **IBM Foursys (Barueri, SP):** projetos de infraestrutura corporativa  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+### Perfil buscado
+- **Formação:** cursos técnicos ou graduação em TI  
+- **Conhecimentos:** redes, sistemas operacionais, virtualização, backup  
+- **Soft skills:** proatividade, trabalho em equipe, comunicação clara  
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+### Tendências
+- **Cloud Computing:** AWS, Azure, Google Cloud  
+- **Segurança da Informação:** proteção de dados em alta demanda  
+- **Suporte híbrido:** físico + ambientes virtuais  
 
-<!--START_SECTION:footer-->
+---
 
-<br />
-<br />
+## 📈 Conclusão
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+O cargo de **Analista de Infraestrutura Júnior** é uma excelente porta de entrada para quem está começando do zero e busca o primeiro emprego.  
+O mercado está aquecido em grandes centros urbanos e oferece espaço para crescimento em **cloud computing** e **segurança da informação**.
+
+---
+
+## 📌 Próximos Passos
+- Criar plano de estudos focado em infraestrutura, redes e sistemas operacionais  
+- Explorar certificações iniciais (ex.: CompTIA, Linux Essentials, fundamentos de Cloud)  
+- Buscar vagas júnior em Belo Horizonte e região  
+
+---
+
+## 👤 Autor
+Lucimar – Explorando carreira em tecnologia e documentando minha jornada para o primeiro emprego em TI.
+
